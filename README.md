@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&amp;color=0:0D0D0D,50:C41E6E,100:0D0D0D&amp;height=210&amp;section=header&amp;text=PRINI&amp;fontSize=70&amp;fontColor=FF5CB3&amp;fontAlignY=40&amp;desc=Full-Stack%20Developer%20swinging%20between%20code%20%26%20creative%20tech&amp;descAlignY=62&amp;descSize=16&amp;descColor=F5F5F5&amp;animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&amp;color=0:0D0D0D,50:C41E6E,100:0D0D0D&amp;height=210&amp;section=header&amp;text=PRINI&amp;fontSize=70&amp;fontColor=FF5CB3&amp;fontAlignY=40&amp;desc=Full-Stack%20Developer%20swinging%20between%20code%20and%20creative%20tech&amp;descAlignY=62&amp;descSize=16&amp;descColor=F5F5F5&amp;animation=twinkling" />
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 
 ```
 web.spin() {
-  name     : "Prini",
+  name     : "Priyadarshini V",
   role     : "Full-Stack Developer",
   college  : "R.M.D. Engineering College, Chennai — B.Tech IT, 2028",
   status   : "🕸️ open to internships",
