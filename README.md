@@ -82,7 +82,7 @@ OD approval workflow, points & event-win tracking, dark cosmic-themed profile UI
 
 GitHub's core UI/UX recreated in a 21-day sprint with a teammate, built in the Antigravity IDE.
 
-`Antigravity IDE` `Team Project`
+ `Team Project`
 
 </td>
 </tr>
