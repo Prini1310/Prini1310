@@ -80,7 +80,7 @@ OD approval workflow, points & event-win tracking, dark cosmic-themed profile UI
 **🐙 github-clone**
 <br>Built in 21 Days
 
-GitHub's core UI/UX recreated in a 21-day sprint with a teammate, built in the Antigravity IDE.
+GitHub's core UI/UX recreated in a 21-day sprint with a teammate, dark cosmic vibe.
 
  `Team Project`
 
